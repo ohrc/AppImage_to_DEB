@@ -6,15 +6,15 @@
 
 ## 🎯 Key Features
 
-✨ **Convert AppImage to DEB** – Transform portable AppImage files into native Debian (.deb) packages with one click
+ **Convert AppImage to DEB** – Transform portable AppImage files into native Debian (.deb) packages with one click
 
-📦 **Install .deb Files Easily** – Install local .deb packages through a graphical interface without terminal commands
+ **Install .deb Files Easily** – Install local .deb packages through a graphical interface without terminal commands
 
-🚀 **Auto-Integration** – Automatically integrate installed packages into your application launcher and system menu
+ **Auto-Integration** – Automatically integrate installed packages into your application launcher and system menu
 
-⚡ **Fast & Beginner-Friendly** – Clean workflow designed for all users
+ **Fast & Beginner-Friendly** – Clean workflow designed for all users
 
-🔒 **Private & Secure** – 100% local processing with zero telemetry
+ **Private & Secure** – 100% local processing with zero telemetry
 
 ---
 
