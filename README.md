@@ -110,7 +110,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 For issues, feedback, or feature requests, visit:
 - **itch.io:** https://khaled-md.itch.io/appimage-to-deb
-- **GitHub:** https://github.com/ohrc/AppImage_to_DEB
 
 ---
 
