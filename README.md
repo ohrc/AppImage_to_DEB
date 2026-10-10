@@ -21,13 +21,18 @@
 ## 🖼️ Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x600?text=AppImage+to+DEB+Converter+-+Dashboard)
+![Dashboard]
+<img width="1275" height="769" alt="Screenshot From 2026-10-10 16-04-45" src="https://github.com/user-attachments/assets/8dc4f9d3-0d0e-4991-b8be-4828541fd653" />
+
 
 ### Convert AppImage
-![Convert AppImage](https://via.placeholder.com/800x600?text=Convert+AppImage+Interface)
+![Convert AppImage]<img width="1275" height="816" alt="Screenshot From 2026-10-10 16-05-26" src="https://github.com/user-attachments/assets/9adc1f9c-9bf4-4f46-bbb0-1185e45a36e6" />
+
 
 ### Install .DEB
-![Install DEB](https://via.placeholder.com/800x600?text=Install+DEB+Packages)
+![Install DEB]<img width="1275" height="816" alt="Screenshot From 2026-10-10 16-05-47" src="https://github.com/user-attachments/assets/d6c7522d-9154-4d17-a11a-9f7dbbaceb2f" />
+
+![ROOT ACCESS]<img width="1275" height="816" alt="Screenshot From 2026-10-10 16-06-18" src="https://github.com/user-attachments/assets/f944ffd0-fd53-47e5-80e7-cc380c1d4a94" />
 
 ---
 
