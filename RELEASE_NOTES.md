@@ -12,6 +12,24 @@
 
 ⚡ **Fast & Beginner-Friendly** – Clean workflow designed for all users
 
+## Screenshots
+
+### Dashboard and privacy overview
+
+![Dashboard overview](./screenshots/dashboard-overview.png)
+
+### AppImage conversion workflow
+
+![AppImage conversion page](./screenshots/appimage-converter.png)
+
+### Package installer
+
+![DEB installer](./screenshots/deb-installer.png)
+
+### Privilege elevation dialog
+
+![Privilege elevation prompt](./screenshots/privilege-elevation.png)
+
 ## Supported Linux Distributions
 
 Compatible with 64-bit Debian-based distributions:
